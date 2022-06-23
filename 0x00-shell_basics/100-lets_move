@@ -1,2 +1,2 @@
 #!/bin/bash
-$u | tr [:lower:] [:upper:]
+mv [[:upper:]]* /tmp/u
